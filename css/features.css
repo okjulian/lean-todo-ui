@@ -1,0 +1,12 @@
+body {
+  padding-top: 70px;
+}
+
+.label {
+	vertical-align: -webkit-baseline-middle;
+	font-size:100%;
+}
+
+.feature {
+	vertical-align: -webkit-baseline-middle;
+}
